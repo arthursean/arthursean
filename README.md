@@ -1,7 +1,8 @@
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=arthursean&show_icons=true&theme=midnight-purple)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursean&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm currently learning Java
+I'm currently learning ![image](https://github.com/arthursean/arthursean/assets/113319924/be3b4bd6-d5a5-48ad-b2c0-5b41f7b2be50)
+
 <!--
 **arthursean/arthursean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
