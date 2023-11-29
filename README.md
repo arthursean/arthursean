@@ -5,6 +5,8 @@
 </div>
 <div 
   style="display: inline_block"><br>
+  <h1 style="text-align:center;">Currently learning:</h1>
+
   <img align="center" alt="Arthur-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Arthur-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
